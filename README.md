@@ -28,8 +28,7 @@ END
 ```
 
 ## CALCULATION
-![WhatsApp Image 2026-02-23 at 5 57 05 PM](https://github.com/user-attachments/assets/350572c1-7660-4920-8cf0-b1a785b12a10)
-
+<img width="400" height="460" alt="image" src="https://github.com/user-attachments/assets/350572c1-7660-4920-8cf0-b1a785b12a10" />
 
 ## OUTPUT
 <img width="984" height="592" alt="image" src="https://github.com/user-attachments/assets/28a30fe5-9217-43f6-b8dc-5b29dda888c0" />
@@ -70,8 +69,7 @@ END
 
 ```
 ## CALCULATION
-![WhatsApp Image 2026-02-23 at 5 57 37 PM](https://github.com/user-attachments/assets/cf2a2f18-6494-473c-8341-0080349bfff1)
-
+<img width="400" height="460" alt="image" src="https://github.com/user-attachments/assets/cf2a2f18-6494-473c-8341-0080349bfff1" />
 
 ## OUTPUT
 <img width="984" height="592" alt="image" src="https://github.com/user-attachments/assets/88d4bef1-8685-47bf-9dc4-8fbd779e8f15" />
